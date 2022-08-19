@@ -1,4 +1,4 @@
-# Authentication ❓
+# Authentication 
 
 ## What We Have Created
 
