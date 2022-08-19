@@ -1,6 +1,6 @@
 # Dice 🎲
 
-## What you will create
+## What We Have Created
 
 We’ve  created a dice app which rolls on click and gives us score.
 
