@@ -1,7 +1,7 @@
-# DiceApp 🎲
+# Quizzler ❓
 
-## Our Goal
+## What We Have Created
 
-The objective of this App is to make an user-friendly App that will roll the dice On-Click .
+We’ve made a quiz app that tests your general knowledge. As one of the most popular types of apps on the app stores, you can create your own quiz for other people to enjoy!
 
-![Finished App](https://raw.githubusercontent.com/SarveshChavan/Output-Gif/main/DiceApp.gif)
+![Finished App](https://raw.githubusercontent.com/SarveshChavan/Output-Gif/main/QuizApp.gif)
